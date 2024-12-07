@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ONIX.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\ONIX.dir/objects.a @CMakeFiles\ONIX.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ONIX.dir/objects.a -Wl,--no-whole-archive -o ONIX.exe -Wl,--out-implib,libONIX.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ONIX.dir\linkLibs.rsp
