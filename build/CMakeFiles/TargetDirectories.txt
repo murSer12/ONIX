@@ -1,3 +1,0 @@
-C:/Users/UnixZero/Documents/ONIX/build/CMakeFiles/ONIX.dir
-C:/Users/UnixZero/Documents/ONIX/build/CMakeFiles/edit_cache.dir
-C:/Users/UnixZero/Documents/ONIX/build/CMakeFiles/rebuild_cache.dir
